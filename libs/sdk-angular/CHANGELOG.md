@@ -1,5 +1,14 @@
 # @langchain/angular
 
+## 0.1.4
+
+### Patch Changes
+
+- [#2199](https://github.com/langchain-ai/langgraphjs/pull/2199) [`2b77530`](https://github.com/langchain-ai/langgraphjs/commit/2b775302b6d212e72af1d169cddf6e13e6f4ddad) Thanks [@pawel-twardziak](https://github.com/pawel-twardziak)! - Support `onFinish` callback in custom transport, ensuring it is called when the stream completes.
+
+- Updated dependencies [[`2b77530`](https://github.com/langchain-ai/langgraphjs/commit/2b775302b6d212e72af1d169cddf6e13e6f4ddad)]:
+  - @langchain/langgraph-sdk@1.7.5
+
 ## 0.1.3
 
 ### Patch Changes
